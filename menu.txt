@@ -1,0 +1,28 @@
+
+<html>
+<head>
+<title>Mama's Kitchen - shut up and eat</title>
+</head>
+<body>
+<h2>Mama's Kitchen - shut up and eat</h2>
+
+Welcome to Mama's Kitchen, a diner where you shut up and eat whatever
+you get served.
+<p>
+Menu this week:
+<ul>
+  <li>Monday: Seared sea bass
+  <li>Tuesday: Tomato soup
+  <li>Wednesday: Omelette
+  <li>Thursday: Taco with minced meat
+  <li>Friday: Spaghetti with tomatosauce
+</ul>
+
+<i>Notes: 
+Dinner is served 5.15pm o'clock. Arrive on time! 
+Kitchen only open to paying members. Monthly membership is $350.
+</i>
+
+</body>
+</html>
+
