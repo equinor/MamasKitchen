@@ -1,2 +1,2 @@
 # MamasKitchen
-A demo repository for teaching Git and GitHub in Equinor
+A demo repository for teaching Git and GitHub
