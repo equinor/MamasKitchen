@@ -11,11 +11,11 @@ you get served.
 <p>
 Menu this week:
 <ul>
-  <li>Monday: Seared sea bass
-  <li>Tuesday: Tomato soup
-  <li>Wednesday: Omelette
-  <li>Thursday: Taco with minced meat
-  <li>Friday: Spaghetti with tomatosauce
+  <li>Monday: Pan-fried red mullet
+  <li>Tuesday: Taco with minced meat
+  <li>Wednesday: Meat balls in brown sauce with salad and potatos
+  <li>Thursday: Lamb and cabbage
+  <li>Friday: Fajitas with veggiemeat
 </ul>
 
 <i>Notes: 
