@@ -54,8 +54,10 @@ def write_webpage_to_file(filename, html):
 
 
 if __name__ == '__main__':
-    dishes = read_dishes_from_file("dishes.txt")
+    dishes_file = "dishes.txt"
+    menu_file = "menu.txt"
+    dishes = read_dishes_from_file(dishes_file)
     menu = select_random_week_menu(dishes)
     webpage = create_webpage(html_template, menu)
-    write_webpage_to_file("menu.html", webpage)
-    print("Weekly menu updated!")
+    write_webpage_to_file(menu_file, webpage)
+    print(f"Weekly menu ({menu_file}) updated!")
