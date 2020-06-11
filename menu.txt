@@ -12,7 +12,7 @@ you get served.
 Menu this week:
 <ul>
   <li>Monday: Pan-fried red mullet
-  <li>Tuesday: Taco with minced meat
+  <li>Tuesday: Taco with minced meat and chilli
   <li>Wednesday: Meat balls in brown sauce with salad and potatos
   <li>Thursday: Lamb and cabbage
   <li>Friday: Fajitas with veggiemeat
