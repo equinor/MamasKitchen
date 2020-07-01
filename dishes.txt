@@ -1,7 +1,7 @@
 Pizza with ham and bacon and garlic and mushrooms and chili
 Chicken and chips and mushrooms and chili
 Spaghetti with tomatosauce and mushrooms
-Lamb and cabbage and mushrooms
+Lamb and cabbage and mushrooms 
 Lasagne with kale, vegetarian
 Veggie burger and mushrooms
 Omelette and bacon and mushrooms and tomatoes
@@ -19,5 +19,7 @@ Deep-fried haddock
 Taco with minced meat
 Plain water
 Snake bone
+Bacon cheese burger with sweet potato fries
+Lutefisk
+Cod with curry sauce
 Vegetarian Soup
-
