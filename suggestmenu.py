@@ -1,6 +1,6 @@
 import random
 
-html_template = '''
+html_template = """
 <html>
 <head>
 <title>Mama's Kitchen - shut up and eat</title>
@@ -20,19 +20,19 @@ Menu this week:
   <li>Friday: {}
 </ul>
 
-<i>Notes: 
-Dinner is served 5.15pm o'clock. Arrive on time! 
+<i>Notes:
+Dinner is served 5.15pm o'clock. Arrive on time!
 Kitchen only open to paying members. Monthly membership is $350.
 </i>
 
 </body>
 </html>
-'''
+"""
 
 
 def read_dishes_from_file(filename):
     dishes = []
-    with open(filename, 'rt') as f:
+    with open(filename, "rt") as f:
         for line in f:
             dishes.append(line.strip())
     return dishes
@@ -49,11 +49,11 @@ def create_webpage(template, menu):
 
 
 def write_webpage_to_file(filename, html):
-    with open(filename, 'wt') as f:
+    with open(filename, "wt") as f:
         print(html, file=f)
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     dishes_file = "dishes.txt"
     menu_file = "menu.txt"
     dishes = read_dishes_from_file(dishes_file)
