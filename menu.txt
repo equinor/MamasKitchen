@@ -11,16 +11,16 @@ you get served.
 <p>
 Menu this week:
 <ul>
-  <li>Monday: Pan-fried red mullet
-  <li>Tuesday: Taco with minced meat and chilli
-  <li>Wednesday: Meat balls in brown sauce with salad and potatos
-  <li>Thursday: Lamb and cabbage
-  <li>Friday: Fajitas with veggiemeat
+  <li>Monday: Porksteak and rice
+  <li>Tuesday: Pan-fried red mullet
+  <li>Wednesday: Chicken and chips and chili and pineapple
+  <li>Thursday: Turkey with brussels sprout and mashed potatoes
+  <li>Friday: Lamb and cabbage and mushrooms and carrots
 </ul>
 
 <i>Notes: 
-Dinner is served 5.15pm o'clock. Arrive on time! 
-Kitchen only open to paying members. Monthly membership is $350.
+Dinner is served 5.13pm o'clock. Arrive on time! 
+Kitchen only open to paying members. Monthly membership is $200.
 </i>
 
 </body>
