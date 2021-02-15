@@ -1,10 +1,10 @@
 Chocolate pudding
-Chocolate mousse
+Mousse with light chocolate - with strawberries
 Belgian waffles with strawberries and whipped cream
 Vanilla icecream
 Chocolate cake and chili
 Cheese Chocolate cake 
-Carrot cake
+Carrot cake with cream
 Raspberry Jello
 Fruit salad
 Cheese cake
@@ -16,3 +16,4 @@ Success cake with yellow creme
 Strawberry icecream
 Blackforest cake
 Queen Maud pudding
+Pavlova
