@@ -54,8 +54,8 @@ def write_webpage_to_file(filename, html):
 
 
 if __name__ == '__main__':
-    dishes_file = "dishes.txt"
-    menu_file = "menu.txt"
+    dishes_file = "config/dishes.txt"
+    menu_file = "docs/index.html"
     dishes = read_dishes_from_file(dishes_file)
     menu = select_random_week_menu(dishes)
     webpage = create_webpage(html_template, menu)
