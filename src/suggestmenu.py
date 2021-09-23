@@ -55,7 +55,6 @@ def write_webpage_to_file(filename, html):
 
 
 if __name__ == '__main__':
-    dishes_file = "config/dishes.txt"
     menu_file = "docs/index.html"
     dishes = read_lines_from_file("config/dishes.txt")
     desserts = read_lines_from_file("config/desserts.txt")
