@@ -1,10 +1,10 @@
-Pizza with garlic and pinapple and apples and blue cheese
-Chicken and chips and bacon
-Aldente spaghetti with tomatosauce and mushrooms and chili
-Lamb and cabbage with mushrooms and carrots
+Pizza with garlic, pinapple, apples and blue cheese
+Chicken with chips and bacon
+Aldente spaghetti with tomato sauce, mushrooms and chili
+Lamb with cabbage, mushrooms and carrots
 Smalahåve with fries
 Veggieburger with cheese
-Lamb and cabbage with mushrooms and carrots with chili
+Chili lamb with cabbage, mushrooms and carrots
 Omelette with bacon and cheese
 Fajitas with chicken and red peppers
 Meat balls in brown sauce with salad and potatoes
@@ -12,7 +12,7 @@ Tomato soup with macaroni and egg
 Pan-fried red mullet
 Swedish meatballs
 Vegetable soup with bacon
-Eggs and bacon and beans and chili
+Chilli eggs and bacon with beans
 Potato dumplings
 Seared sea bass
 Turkey with brussels sprout and mashed potatoes
@@ -25,4 +25,4 @@ Taco with minced meat
 Bacon cheese burger with sweet potato fries
 Lutefisk with bacon
 West African Peanut Stew
-New fusion dish 
+New fusion dish
