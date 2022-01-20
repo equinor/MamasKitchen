@@ -2,3 +2,5 @@ milk
 bread
 butter
 jam
+salami
+
