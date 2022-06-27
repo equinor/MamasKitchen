@@ -10,7 +10,7 @@ Fajitas with chicken and red peppers
 Meat balls in brown sauce with salad and potatoes
 Tomato soup with macaroni and egg
 Pan-fried red mullet with chili
-Paella with pineapples
+Paella without pineapples
 Vegetable soup with bacon
 Eggs and bacon and beans and chili
 Potato dumplings
@@ -26,4 +26,4 @@ Taco with minced meat
 Bacon cheese burger with sweet potato fries
 Lutefisk with bacon
 West African Peanut Stew
-New fusion dish 
+New fusion dish
