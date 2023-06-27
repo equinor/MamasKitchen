@@ -1,7 +1,7 @@
-milk
-bread
-butter
-jam
-salami
-egg
-coke
+milk 2L
+bread x 2
+butter 100g
+jam 500g
+salami 500g
+egg x 12
+coke x 2
