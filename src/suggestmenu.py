@@ -49,6 +49,7 @@ def create_webpage(template, menu):
     assert len(menu) == 5
     return template.format(*menu)
 
+
 def write_webpage_to_file(filename, html):
     with open(filename, 'wt') as f:
         print(html, file=f)
