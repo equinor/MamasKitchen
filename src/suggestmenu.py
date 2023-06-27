@@ -25,7 +25,7 @@ Dinner is served 5.13pm o'clock. Arrive on time!
 Kitchen only open to paying members. Monthly membership is $100.
 </i>
 
-</body>1
+</body>
 </html>
 '''
 
