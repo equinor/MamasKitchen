@@ -3,7 +3,7 @@ import random
 html_template = '''
 <html>
 <head>
-<title>Mama's Kitchen - shut up and eat</title>
+<title>Mama's Kitchen - shut up and eat!</title>
 </head>
 <body>
 <h2>Mama's Kitchen - shut up and eat</h2>
