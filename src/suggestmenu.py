@@ -22,7 +22,7 @@ Menu this week:
 
 <i>Notes: 
 Dinner is served 5.13pm o'clock. Arrive on time! 
-Kitchen only open to paying members. Monthly membership is $200.
+Kitchen only open to paying members. Monthly membership is $220.
 </i>
 
 </body>
