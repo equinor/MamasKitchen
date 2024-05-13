@@ -2,6 +2,7 @@ milk
 bread
 butter
 jam
+chili
 salami
 egg
 coke
